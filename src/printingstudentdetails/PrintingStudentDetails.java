@@ -11,7 +11,7 @@ package printingstudentdetails;
 public class PrintingStudentDetails {
 
     /*
-     * Aayushi patel
+     * Aayushi Sachin patel
      */
     public static void main(String[] args) {
         // TODO code application logic here
