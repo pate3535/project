@@ -6,7 +6,7 @@ package printingstudentdetails;
 
 /**
  *
- * @author aayus
+ * @author AAYUSHI
  */
 public class PrintingStudentDetails {
 
