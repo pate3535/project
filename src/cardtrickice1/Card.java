@@ -1,7 +1,5 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ .
  */
 package cardtrickice1;
 
@@ -12,9 +10,10 @@ package cardtrickice1;
  */
 public class Card 
 {
+    
     private int value;
     private String suits; //encapsulation
-    //constant
+    boolean = false;
     public static final String [] SUITS = { "diamonds","clubs","spades","hearts"};
 
     /**
@@ -27,8 +26,7 @@ public class Card
     /**
      * @param value the value to set
      */
-    public void setValue(int value) {
-        this.value = value;
+    inputCard.setValue(value);
     }
 
     /**
@@ -41,8 +39,8 @@ public class Card
     /**
      * @param suits the suits to set
      */
-    public void setSuits(String suits) {
-        this.suits = suits;
+   
+       inputCard.setValue(suit);
     }
    //number
     
